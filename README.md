@@ -16,7 +16,7 @@ Frontend:
 - shadcn-ui
 - Tailwind CSS
 
-Backend: 
+Backend(Hosted via serverless API): 
 - JavaScript
 - Antropic API for AI generation of advice.
 
