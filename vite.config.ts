@@ -18,5 +18,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/What_would_she_do/"
+  base: process.env.NODE_ENV === "production" ? "/What_would_she_do/" : "/",
 }));
