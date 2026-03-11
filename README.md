@@ -9,11 +9,16 @@ Icons included are: Sylvia Plath, Frida Kahlo, Ada Lovelace, Marie Curie, Amelia
 
 This project is built with:
 
+Frontend:
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
+
+Backend: 
+- JavaScript
+- Antropic API for AI generation of advice.
 
 ## How can I edit this code?
 
