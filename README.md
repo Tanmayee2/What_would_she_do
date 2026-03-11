@@ -1,4 +1,5 @@
-# Welcome to your Lovable project
+A web app to talk to historical women icons from several spheres of life and get their advice on your situations.
+Icons included are: Sylvia Plath, Frida Kahlo, Ada Lovelace, Marie Curie, Amelia Earhart, Ruth Bader Ginsburg, Savitribai Phule, Grace Hopper, Virginia Woolf, Dr. Anandibai Joshi, Dolly Parton and Serena Williams.
 
 ## Project info
 
