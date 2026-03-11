@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Tanmayee2.github.io/What_would_she_do",
+  "homepage": "https://tanmayee2.github.io/What_would_she_do",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
