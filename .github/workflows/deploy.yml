@@ -23,6 +23,8 @@ jobs:
 
       - run: npm install
       - run: npm run build
+        env:
+            NODE_ENV: production
 
       - run: cp dist/index.html dist/404.html
 
