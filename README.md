@@ -42,6 +42,10 @@ npm i
 npm run dev
 ```
 
+## Demo
 
+
+
+https://github.com/user-attachments/assets/24b8d612-4274-420a-8376-556b352a4a7b
 
 
