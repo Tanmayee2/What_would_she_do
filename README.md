@@ -3,7 +3,7 @@ Icons included are: Sylvia Plath, Frida Kahlo, Ada Lovelace, Marie Curie, Amelia
 
 ## Project info
 
-**URL**: 
+**URL**: https://tanmayee2.github.io/What_would_she_do/
 
 ## What technologies are used for this project?
 
